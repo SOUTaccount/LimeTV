@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LimeTV</string>
+    <string name="tab_all_channels">Все</string>
+    <string name="tab_favorite_channels">Избранные</string>
+    <string name="title_name">Телеканалы</string>
+    <string name="content_description">Изображение канала</string>
+</resources>
